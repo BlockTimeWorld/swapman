@@ -1,0 +1,44 @@
+{
+  "description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum.\n\n\nThe owner of the NFT token owns the original painting. No computer generated art!\n\n\nArtist: Taavi Lehtonen\n\nMedium: Acrylic on Canvas\n\nDate: July 14, 2020\n\nSize inches: 30' x 60'\n\nSize metric: 76 x 150 cm\n\nFind more in https://taavilehtonen.com\n\n\nHi-res image: https://bit.ly/3azxIrQ",
+  "external_url": "https://app.swapmatic.io",
+  "image": "https://raw.githubusercontent.com/BlockTimeWorld/swapman/images/5.png",
+  "name": "Disillusion",
+  "attributes": [
+    {
+      "trait_type": "artist",
+      "value": "Taavi Lehtonen"
+    },
+    {
+      "trait_type": "contact",
+      "value": "https://taavilehtonen.com"
+    },
+    {
+      "trait_type": "size_inches",
+      "value": "30' x 60'"
+    },
+	{
+      "trait_type": "size_metric",
+      "value": "76 x 150 cm"
+    },
+	{
+      "trait_type": "medium",
+      "value": "Acrylic on Canvas"
+    },
+    {
+      "trait_type": "dated",
+      "value": "July 14, 2020"
+    },
+    {
+      "trait_type": "mint_date",
+      "value": "Feb-07-2021"
+    },
+    {
+      "trait_type": "custody",
+      "value": "Artist, NS, Canada"
+    },
+    {
+      "trait_type": "edition",
+      "value": "1/1"
+    }
+  ]
+}
