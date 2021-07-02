@@ -1,8 +1,8 @@
 {
     "description": "Swapman NFT holders receive swap aggregation rewards according to their staked SWAM.",
     "external_url": "https://app.swapmatic.io",
-    "image": "https://raw.githubusercontent.com/BlockTimeWorld/swapman/main/images/8.png",
-    "name": "Swapman NFT #8",
+    "image": "https://raw.githubusercontent.com/BlockTimeWorld/swapman/main/images/16.png",
+    "name": "Swapman NFT #16",
     "attributes": [
         {
             "trait_type": "artist",
