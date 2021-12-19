@@ -1,0 +1,20 @@
+{
+    "description": "Swapman NFT holders receive swap aggregation rewards according to their staked SWAM.",
+    "external_url": "https://swapmatic.io",
+    "image": "https://raw.githubusercontent.com/BlockTimeWorld/swapman/main/images/33.jpg",
+    "name": "Swapman NFT #33",
+    "attributes": [
+        {
+            "trait_type": "artist",
+            "value": "Megatronices"
+        },
+        {
+            "trait_type": "contact",
+            "value": "contact@swapmatic.io"
+        },
+        {
+            "trait_type": "mint_date",
+            "value": "Dec-19-2021"
+        }
+    ]
+}
