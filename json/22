@@ -1,0 +1,20 @@
+{
+    "description": "Swapman NFT holders receive swap aggregation rewards according to their staked SWAM.",
+    "external_url": "https://swapmatic.io",
+    "image": "https://raw.githubusercontent.com/BlockTimeWorld/swapman/main/images/22.png",
+    "name": "Swapman NFT #22",
+    "attributes": [
+        {
+            "trait_type": "artist",
+            "value": "Taavi Lehtonen"
+        },
+        {
+            "trait_type": "contact",
+            "value": "contact@swapmatic.io"
+        },
+        {
+            "trait_type": "mint_date",
+            "value": "Jul-02-2021"
+        }
+    ]
+}
